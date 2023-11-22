@@ -1,4 +1,4 @@
-print('''Do you want will happen if MATHS doesn\'t exist?
+print('''Do you know what will happen if MATHS doesn\'t exist?
 Here are some basic mathematics operations which you can perform
 1)Addition
 2)Subtraction
